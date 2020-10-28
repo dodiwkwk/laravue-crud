@@ -1,7 +1,7 @@
 <h2>Dokumentasi Belajar</h2>
 <h3>SPA with Laravel 7 and Vue.js</h3>
-<p>Laravel : API</p> <br>
-<p>Vue.js : Operasi CRUD</p><br>
+<p>Laravel : API</p>
+<p>Vue.js : Operasi CRUD</p>
 <p>Studi kasus : Note</p>
 <ul>
     <li>Buat database dengan nama : <b>laravue-crud</b></li>
